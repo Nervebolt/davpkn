@@ -1,0 +1,39 @@
+{
+  "testId": "basic_knowledge_01",
+  "testName": "Basic Knowledge Quiz",
+  "timeLimitMinutes": 10,
+  "availableFrom": "2024-07-01T00:00:00Z",
+  "availableTo": "2025-12-31T23:59:59Z",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctOption": "Paris"
+    },
+    {
+      "id": "q2",
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctOption": "Mars"
+    },
+    {
+      "id": "q3",
+      "text": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctOption": "Pacific Ocean"
+    },
+    {
+      "id": "q4",
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correctOption": "William Shakespeare"
+    },
+    {
+      "id": "q5",
+      "text": "What is 7 multiplied by 8?",
+      "options": ["48", "54", "56", "64"],
+      "correctOption": "56"
+    }
+  ]
+}
